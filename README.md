@@ -188,7 +188,7 @@ As prime minister, Gandhi was known for her political intransigency and unpreced
 
 
 ## HTML Validator
-![HTML Validator](./screenshots/valid1.png)
+![HTML Validator](./screenshots/valid2.png)
 
 ## Result:
 The program for implementing image map is executed successfully.
